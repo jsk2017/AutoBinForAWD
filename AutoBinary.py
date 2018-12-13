@@ -23,18 +23,28 @@ def main():
     
     parser.add_argument('-r', '--remotepath',help="Input remotepath file name to dump or overwrite it")
     parser.add_argument('-l', '--localpath',help="Input localpath file name ")
+    parser.add_argument('-v','--version',help='Edit by BadRer V1.0',action="store_true")
 
 
     #Parse Arguments
     args =parser.parse_args()
 
+    #Print version infomation
+    if args.version:
+        print '''
+__________             ._____________              
+\______   \_____     __| _/\______   \ ___________ 
+ |    |  _/\__  \   / __ |  |       _// __ \_  __ \
+ |    |   \ / __ \_/ /_/ |  |    |   \  ___/|  | \/
+ |______  /(____  /\____ |  |____|_  /\___  >__|   
+        \/      \/      \/         \/     \/       
+
+
+[+] Version 1.0 Edit by BadRer!'''
+        exit(0)
+
     #Check for arguments error:
     if not args.hostname or not args.port or not args.username or (not args.passwd and not args.keyfile):
-        print type(args.hostname)
-        print type(args.port)
-        print type(args.username)
-        print type(args.passwd)
-        print type(args.keyfile)
         print "[-] Error! Please input base ssh connection info"
         exit(0)
 
