@@ -1,0 +1,90 @@
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7f8728a0f147
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7f6c1f803147
+flag{1234567888}
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7f719643a147
+flag{1234567888}
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7f8536816147
+flag{1234567888}
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7efc16f35147
+flag{1234567888}
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7f7156c49147
+flag{1234567888}
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7f5d660a0147
+flag{1234567888}
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7fbf06bba147
+flag{1234567888}
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7f7f888f8147
+flag{1234567888}
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7fd179444147
+flag{1234567888}
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7ffabdb59147
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x99898147
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+-0x2c5eb9
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7fb6d4b5e147
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7f209801c147
+[*] Closed connection to 192.168.43.252 port 10000
+[x] Opening connection to 192.168.43.252 on port 10000
+[x] Opening connection to 192.168.43.252 on port 10000: Trying 192.168.43.252
+[+] Opening connection to 192.168.43.252 on port 10000: Done
+0x7fb12c5ce147
+flag{1234567888}
+[*] Closed connection to 192.168.43.252 port 10000
