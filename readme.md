@@ -43,6 +43,7 @@ optional arguments:
 
 主要功能参数：
 
+```
 --dump      一键`dump` pwn题的源文件，用于`dump`用户工作目录下的单个源文件
 
 --find      一键获取服务器上的`flag`所在的路径
@@ -53,14 +54,16 @@ optional arguments:
 
 --command   通过`ssh`执行一些简单的命令，最常用的就是列目录
 
+```
 常用的命令：
 
+```
 python AutoBinary.py -ip 192.168.43.252 -P 22 -u pwn -p 123 --dump
 python AutoBinary.py -ip 192.168.43.252 -P 22 -u pwn -p 123 --find
 python AutoBinary.py -ip 192.168.43.252 -P 22 -u pwn -p 123 --command 'ls'
 python AutoBinary.py -ip 192.168.43.252 -P 22 -u pwn -p 123 --get -r '/home/pwn/pwn1' -l pwn1
 python AutoBinary.py -ip 192.168.43.252 -P 22 -u pwn -p 123 --put -l pwn1 -r '/home/pwn/pwn1'
-
+```
 
 ### 测试
 
@@ -93,6 +96,7 @@ python AutoBinary.py -ip 192.168.43.252 -P 22 -u pwn -p 123 --put -l pwn1 -r '/h
 
 手动多进程，通过脚本模版，对每一个`ip`生成一个攻击脚本（在`submit`目录下），最后需要手动运行每个`sh`脚本，主要需要在`AutoBinForAWD`目录下，否则模块会导入错误
 `submit`目录结构如下：
+
 ```
 ip
     ip.py       具体的攻击脚本
