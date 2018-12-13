@@ -224,8 +224,3 @@ def sftp_keyfile_dump_bin_source(ip,port,username,keyfile):
     except  Exception as msg:
         print msg
 
-# sftpdump('192.168.43.252',22,'pwn','123')
-# sftp_dump_bin_source('192.168.43.252',22,'pwn','123')
-# sftp_get_file('192.168.43.252',22,'pwn','123','/home/pwn/flag.txt','flag.txt')
-# sftp_put_file('192.168.43.252',22,'pwn','123','flag.txt','/home/pwn/flag')
-# sshdump('192.168.43.252',22,'pwn','123')

@@ -70,32 +70,6 @@ __________             ._____________
         ssh_exec(args.hostname,args.port,args.username,args.passwd,args.keyfile,args.command)
 
     
+if __name__=="__main__":
+    main()
 
-main()
-
-
-
-'''
-大致思路：
-获取用户参数
---dump   to dump binary source
---find   to get path of flag
---get    to dump choose file from remote host
---put    to put choose file to remote host
---cmd    to exec command by ssh
-
---hostname '192.168.43.252' --port 22 --username 'pwn' --passwd '123' --dump
---hostname '192.168.43.252' --port 22 --username 'pwn' --passwd '123' --find
---hostname '192.168.43.252' --port 22 --username 'pwn' --passwd '123' --get --remotepath '/home/username/xxx' --localpath 'xxx'
---hostname '192.168.43.252' --port 22 --username 'pwn' --passwd '123' --put --remotepath '/home/username/xxx' --localpath 'xxx' 
---hostname '192.168.43.252' --port 22 --username 'pwn' --passwd '123' --cmd 'ls'
-
---dump       == -d
---hostname   == -h
---port       == -P
---username   == -u
---passwd     == -p
---remotepath == -r
---localpath  == -l
-
-'''

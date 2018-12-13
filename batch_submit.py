@@ -111,10 +111,9 @@ done
 
             # ready to run
             command = 'nohup bash '+sh_template_filename
-            # print command
             commands.append(command)
-            # os.system(command)
             print 'Done'
+            # os.system(command)
             # print stdout.read()
             # os.system('cat /proc/cpuinfo')
         print commands
